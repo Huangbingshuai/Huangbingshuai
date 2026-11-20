@@ -1,4 +1,4 @@
-# 你好，我是 mikasa 👋
+# 你好，我是椎名林和 👋
 
 ![关注方向：数据工程、AI Agent 与知识应用](assets/focus.svg)
 
