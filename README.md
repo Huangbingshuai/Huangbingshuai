@@ -26,6 +26,12 @@
 - **AI 与数据**：Agent · RAG · NL2SQL · LangGraph · Neo4j
 - **开发工具**：Git · Docker · Conda · MCP · Codex
 
+## 联系方式
+
+- 微信：`NovSco-20e`
+- 邮箱：infosec_huangb@163.com
+- 主页：[huangbingshuai.github.io](https://huangbingshuai.github.io)
+
 ---
 
 持续学习，也持续把想法变成作品。
